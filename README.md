@@ -143,7 +143,10 @@ v; Rating analysis helps target driver/passenger experience improvements where n
 This analysis provides a robust foundation for Good-cabs to make strategic, data-driven decisions in operations, pricing, and customer retention. The Power BI dashboard supports ongoing tracking, while these insights equip stakeholders to scale what works and fix what doesn’t.
 
 Dashboard Link: 
+
+
 ![Goodcabs Report 1](https://github.com/user-attachments/assets/293e1e23-34e8-491f-b987-8efa2bc9c482)
+
 ![Goodcabs Report 2](https://github.com/user-attachments/assets/c0433ae5-150b-4884-bb1e-124c6c7b72e3)
 
 
