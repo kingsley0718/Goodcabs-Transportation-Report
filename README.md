@@ -37,3 +37,50 @@ iv; Assess monthly and city-specific progress toward company targets.
 #### Additional Calculated Columns and Measures Created:
 
 Trip Sort Order, Total Passengers,  Total New Passengers,  Total Repeat Passengers,  Percentage(%) of Repeat Passengers,  Actual New Passengers,  Actual Trips,  Average Trip Distance,  New Passenger Target Achievement (%)  , New Passenger Trips,  New vs Repeat Passenger Trip Ratio,  Repeat Passenger Trip,  Revenue Growth Rate (%),   Target New Passengers,  Target Trips,  Total Revenue,  Total Trip Distance,  Total Trip Count,  Trip Target Achievement (%).
+
+## Tools & Techniques Used
+
+Power BI Desktop for data modeling and visualization.
+
+DAX (Data Analysis Expressions) for calculations and KPI generation.
+
+Matrix, Card, Donut, Waterfall, Line, and Bar Charts for interactive insights.
+
+
+## Key KPIs & Visuals
+#### Displayed Using Cards:
+
+i; Total Revenue: ₹108M.
+
+ii; Total Passengers: 238K.
+
+iii; New Passengers: 177K.
+
+iv; Repeat Passengers: 61K.
+
+v; Total Trips: 426K.
+
+vi; Avg Trip Distance: 19.13 km.
+
+
+#### Other Visuals:
+vii; Average Fare Per Trip by City (Stacked Column Chart).
+
+viii; Total Trip Count by Month (Line Chart).
+
+ix; Top and Bottom Performing Cities (Bar Chart).
+
+x; Trip Count by Month and Day Type (Clustered Bar Chart).
+
+xi; New vs Repeat Passenger Trip Ratio (Donut Chart).
+
+xii; Revenue Growth Rate by Month (Waterfall Chart).
+
+xiii; Repeat Trip Frequency by City (Matrix).
+
+xiv; Month and City_Name (Slicers).
+
+#### Additional sheet with:
+xv; Avg Ratings by City & Passenger Type
+xvi; Trip Target Achievement Rate
+xvii; New Passenger Target Achievement Rate
