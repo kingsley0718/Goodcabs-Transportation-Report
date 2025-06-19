@@ -124,6 +124,7 @@ ii; Revenue volatility month-to-month highlights a need for seasonal campaign pl
 iii; Top cities by fare and trips (e.g., Jaipur) offer scalable blueprints for underperforming regions.
 
 iv; Lower achievement rates in cities like Vadodara and Jaipur (for different KPIs) suggest the need for tailored strategies — one may need demand generation, the other operational support.
+
 v; Rating analysis helps target driver/passenger experience improvements where needed.
 
 ## Recommendations :
@@ -140,6 +141,12 @@ v; Rating analysis helps target driver/passenger experience improvements where n
 
 ## Conclusion
 This analysis provides a robust foundation for Good-cabs to make strategic, data-driven decisions in operations, pricing, and customer retention. The Power BI dashboard supports ongoing tracking, while these insights equip stakeholders to scale what works and fix what doesn’t.
+
+Dashboard Link: 
+![Goodcabs Report 1](https://github.com/user-attachments/assets/293e1e23-34e8-491f-b987-8efa2bc9c482)
+![Goodcabs Report 2](https://github.com/user-attachments/assets/c0433ae5-150b-4884-bb1e-124c6c7b72e3)
+
+
 
 
 ## Appendix: DAX Code Snippets
